@@ -14,9 +14,9 @@ Gostariamos de ser capazes de adicionar e visualizar curriculos para realizar ed
 __Obs.:__ A descrição abrangente é proposital, a sua criatividade faz parte do teste. Acreditamos que ser capaz de entregar um bom produto mesmo com uma especificação simples faz parte do trabalho do Desenvolvedor. Além disso, faz parte do trabalho do desenvolvedor entender as necessidades do cliente e a demanda, caso algo não esteja claro, pode mandar um email: reflow@reflow.com.br
 
 ## Entrega
-Esperamos que você entregue seu projeto em até 1 semana, se precisar de mais tempo, avisar previamente no e-mail com o tempo extra necessário para a realização do teste.
+Esperamos que você entregue seu projeto em até 1 semana, se precisar de mais tempo, avisar previamente mandando um email com o tempo extra necessário para a realização do teste.
 
-Para isso, você deve realizar um fork nesse projeto e nos enviar no email o fork contendo seu projeto. (ele pode ser entregue em qualquer plataforma de versionamento de código, tal como Github, Bitbucket, GitLab, etc. Só não esqueça de deixá-lo público).
+Para isso, você deve realizar um fork nesse projeto e enviar para o email reflow@reflow.com.br o fork contendo seu projeto. (ele pode ser entregue em qualquer plataforma de versionamento de código, tal como Github, Bitbucket, GitLab, etc. Só não esqueça de deixá-lo público).
 Ao enviar, não esqueça de escrever um texto explicando como você desenvolveu seu código: como você otimizou uma função, dificuldades que enfrentou, bugs que podemos encontrar, etc.
 
 Contamos que o projeto atenda os requisitos:
@@ -25,8 +25,8 @@ Contamos que o projeto atenda os requisitos:
 + Seja programado em qualquer linguagem OOP utilizando qualquer framework.
 + Contenha um texto explicando como seu programa funciona.
 
-## Pontinhos Extras
-+ Entregar o projeto em Python, Ruby ou Javascript (Queremos pessoas com vontade de aprender e de sair da sua zona de conforto)
+## Pontinhos Extras (Opcionais)
++ Programar o Backend do projeto em Python, Ruby ou Javascript (Queremos pessoas com vontade de aprender e de sair da sua zona de conforto)
 + Entregar o projeto usando o framework Django, e se possivel, Django Rest Framework.
 + Escrever Testes automatizados na aplicação.
 + Uso de Docker e/ou Docker Compose.
@@ -34,7 +34,9 @@ Contamos que o projeto atenda os requisitos:
 + Escrever APIs REST para conectá-las com o Frontend.
 
 ## O que será avaliado
-Nós avaliaremos primordialmente o código. Não precisamos que tudo seja entregue e que cada funcionalidade seja implementada, mas queremos ver códigos que façam sentido e sejam faceis de ler e entender. (Não fique com medo de escrever comentários quando necessário)
+Nós avaliaremos primordialmente o código. Queremos ver códigos que façam sentido e sejam faceis de ler e entender. (Não fique com medo de escrever comentários quando necessário)
+
+Não fique com medo se algo não funcionar ou se você não conseguir implementar algo. Caso isso aconteça, queremos que você nos explique o que não funciona e especialmente porque não funciona.
 
 Nós também avaliaremos a sua criatividade, como você chegou a solução do problema e o que você pensou. Gostariamos muito de ser surpreendidos positivamente com a sua solução.
 
