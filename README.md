@@ -9,12 +9,9 @@ A Reflow é uma plataforma usada para a gestão de empresas, diferente de outras
 ## Descrição
 Necessitamos de uma plataforma capaz de gerir curriculos. 
 
-Gostariamos de ser capazes de adicionar curriculos na plataforma e visualizar esses curriculos para realizar edições futuras quando necessário. Além disso, se possivel, criar um "banco de dados" para curriculos não aceitos e, de alguma maneira, algo para que possamos gerenciar as fases de uma contratação:
- + __Triagem de Curriculos__ \> __Teste Online__ \> __Entrevista__ \> __Proposta__
+Gostariamos de ser capazes de adicionar e visualizar curriculos para realizar edições futuras quando necessário.
 
-Como nem todos os curriculos são iguais, acreditamos que seja importante os usuários poderem inserir os dados da maneira que quiserem, com várias seções diferentes sendo nenhuma delas obrigatória.
-
-__Obs.:__ A descrição abrangente é proposital, a sua criatividade faz parte do teste. Acreditamos que ser capaz de entregar um bom produto mesmo com uma especificação simples faz parte do trabalho do Desenvolvedor. Além disso, faz parte do trabalho do desenvolvedor entender as necessidades do cliente e a demanda, caso algo não esteja claro, pode mandar um email [aqui](reflow@reflow.com.br)
+__Obs.:__ A descrição abrangente é proposital, a sua criatividade faz parte do teste. Acreditamos que ser capaz de entregar um bom produto mesmo com uma especificação simples faz parte do trabalho do Desenvolvedor. Além disso, faz parte do trabalho do desenvolvedor entender as necessidades do cliente e a demanda, caso algo não esteja claro, pode mandar um email: reflow@reflow.com.br
 
 ## Entrega
 Esperamos que você entregue seu projeto em até 1 semana, se precisar de mais tempo, avisar previamente no e-mail com o tempo extra necessário para a realização do teste.
@@ -29,7 +26,7 @@ Contamos que o projeto atenda os requisitos:
 + Contenha um texto explicando como seu programa funciona.
 
 ## Pontinhos Extras
-+ Entregar o projeto em Python, Ruby ou Javascript (Queremos pessoas com vontade de aprender e de sair da sua zona de conforto, adoraríamos receber um projeto com uma tecnologia em que você nunca programou)
++ Entregar o projeto em Python, Ruby ou Javascript (Queremos pessoas com vontade de aprender e de sair da sua zona de conforto)
 + Entregar o projeto usando o framework Django, e se possivel, Django Rest Framework.
 + Escrever Testes automatizados na aplicação.
 + Uso de Docker e/ou Docker Compose.
